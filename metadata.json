@@ -1,0 +1,11 @@
+{
+  "name": "Copy of Remix Remix Forsa-T Geofenced Deals Platform",
+  "description": "Forsa‑T Marketing Website\nDescription:\nPublic responsive marketing and SEO website for Forsa‑T. Includes landing page, deals, businesses, categories, about, contact, FAQ, privacy policy, and terms.\nForsa‑T Consumer App\nDescription:\nResponsive consumer PWA for discovering nearby geofenced deals, viewing businesses, following businesses, receiving notifications, and managing redemption history.\nForsa‑T Business Owner Portal\nDescription:\nBusiness Owner dashboard for managing business profiles, branches, staff, deals, redemptions, subscriptions, billing, notifications, and analytics.\nForsa‑T Admin Dashboard\nDescription:\nAdministrative dashboard for managing users, businesses, deal approvals, categories, subscriptions, reports, notifications, and platform content.\nForsa‑T Super Admin Dashboard\nDescription:\nSuper Admin dashboard for managing administrators, roles, permissions, regions, platform configuration, security settings, audit logs, and overrides.\nForsa‑T Backend and Database\nDescription:\nBackend API and PostgreSQL 16 with PostGIS database for authentication, users, businesses, branches, deals, geofencing, redemptions, notifications, subscriptions, and analytics.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
